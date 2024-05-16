@@ -54,7 +54,13 @@
 
 1. 管脚约束均基于 `HDU-XL-01` 板卡进行
 
-2. 过了很久才想起来维护这个仓库，难免有疏漏。欢迎提 [issue](https://github.com/Zhlee0311/dc_lab/issues) ，也可以 [邮件交流](lz1907041@gmail.com) 
+
+
+
+2. 过了很久才想起来维护这个仓库，难免有疏漏。欢迎提 [issue](https://github.com/Zhlee0311/dc_lab/issues) ，也可以邮件交流（我的邮箱：lz1907041@gmail.com)
+
+
+
 
 3. 实验尽量自己做，代码仅供 **参考**
 
