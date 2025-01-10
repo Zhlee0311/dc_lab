@@ -44,7 +44,7 @@
 
 ### 2.2 综合实验
 
-- [AS1-数码管扫描显示](https://github.com/Zhlee0311/dc_lab/tree/main/Final_Lab1_ShiftLED)
+- [AS1-数码管扫描显示](https://github.com/Zhlee0311/dc_lab/tree/main/Final_Lab1_DigitalTube)
 
 - [AS2-出租车计费器](https://github.com/Zhlee0311/dc_lab/tree/main/Final_Lab2_TaxiMeter)
 
